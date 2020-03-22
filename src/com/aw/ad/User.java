@@ -1,8 +1,7 @@
 package com.aw.ad;
 
 /**
- * User: gmc
- * Date: 16/02/11
+ * User: gmc Date: 16/02/11
  */
 public class User {
     private String userName;
